@@ -7,7 +7,7 @@ Then, starts the desired effect for that keyword!
 
 ```html
 <!-- Implement web hidden commands -->
-<script src="script.js"></script>
+<script src="https://media.nurio.me/libs/web-hidden-commands/script.js"></script>
 
 <!-- Register commands & events -->
 <script>
